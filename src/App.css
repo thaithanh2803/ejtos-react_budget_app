@@ -36,3 +36,21 @@
     transform: rotate(360deg);
   }
 }
+
+#Currency {
+    color: blue; /* Change "your_color" to your desired color */
+  }
+
+
+.plus-button {
+display: flex; /* Allow centering of content */
+justify-content: center; /* Center content horizontally */
+align-items: center; /* Center content vertically */
+width: 40px; /* Adjust width as needed */
+height: 40px; /* Adjust height as needed */
+background-color: green; /* Green color */
+border: none; /* Remove default border */
+border-radius: 50%; /* Set circle shape */
+cursor: pointer; /* Indicate clickable element */
+}
+
